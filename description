@@ -1,0 +1,16 @@
+CaptiveAire C# Coding Challenge
+
+As part of the CaptiveAire application process, we ask that you complete a short coding exercise that demonstrates your basic C# skills. Please do the following:
+
+Download New York State Mathematics Exam CSV from data.gov. This data set can also be found here.
+
+Using LINQPad, write a short C# program that:
+
+Excludes rows with a "Grade" value of "All Grades".
+Calculates the average of "# Level 2" grouped by [Category, Year] with a descending sort.
+Outputs the final grouped and sorted results.
+
+Bonus points for:
+async downloading
+SOLID design
+
